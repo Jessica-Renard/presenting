@@ -1,0 +1,98 @@
+.grid-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  font-family: 'Schoolbell','Tahoma', sans-serif;
+  min-height: 300px;
+}
+
+.speller {
+  background-color: palegreen;
+  text-align: center;
+  font-size: 5em;
+  color: #161616;
+}
+
+.button {
+  font-size: 1.5em;
+  color: #161616;
+}
+
+.grid-buttons-lft {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  background-color: mediumaquamarine;
+  text-align: center; 
+}
+
+.grid-buttons-rt {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  background-color: mediumaquamarine;
+  text-align: center; 
+}
+
+#shortA {
+
+}
+
+#shortE {
+  
+}
+
+#shortI {
+  
+}
+
+#shortO {
+  
+}
+
+#shortU {
+  
+}
+
+#longA {
+  
+}
+
+#longE {
+  
+}
+
+#longI{
+  
+}
+
+#longO {
+  
+}
+
+#longU {
+  
+}
+
+#digraphCH-CK {
+  
+}
+
+#digraphSH-PH {
+  
+}
+
+#digraphTH {
+  
+}
+
+#blendsSK-SL-SM-SN-ST-TR-PL {
+  
+}
+
+#blendsBL-CL-CR-DE-FL-GL-GR {
+  
+}
+
+#blendsWH-WR-PLUS {
+  
+}
