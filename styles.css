@@ -2,7 +2,8 @@
   display: grid;
   grid-template-columns: 1fr 2fr 1fr;
   font-family: 'Schoolbell','Tahoma', sans-serif;
-  min-height: 95%;
+  width: 100vw;
+  height: 100vh;
 }
 
 .speller {
